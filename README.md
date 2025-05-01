@@ -1,5 +1,5 @@
-# hairvana
+HairVana
 
-My first app is inspired by my mother. 
+My mother inspires my first app. 
 This app will help hair stylists manage the appointments and send out notifications and reminders to their clients
-It will also help hair stylists track their earning and appointments
+It will also help hair stylists track their earnings and appointments
