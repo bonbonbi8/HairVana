@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163911304957",
+    "project_id": "hairvana-bb01f",
+    "storage_bucket": "hairvana-bb01f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163911304957:android:de8dc536a88952573f2094",
+        "android_client_info": {
+          "package_name": "com.TDTech.hairvana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyjxAbRvUqXS9drA6PhfxKGrOkQn8u88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
